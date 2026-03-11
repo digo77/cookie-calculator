@@ -9,35 +9,3 @@
     }
   ]
 }
-```
-
-4. Clique em **"Commit changes"**
-
----
-
-## 🔄 VERIFICAR SE TEM TODOS OS ARQUIVOS
-
-No seu repositório GitHub, você deve ter:
-
-✅ `index.html`  
-✅ `main.jsx`  
-✅ `cookie-calculator-app.jsx`  
-✅ `index.css`  
-✅ `package.json`  
-✅ `vite.config.js`  
-✅ `tailwind.config.js`  
-✅ `vercel.json` ← **NOVO**
-
-**Está faltando algum?** Me avisa que eu refaço.
-
----
-
-## 🚀 DEPOIS DE ADICIONAR O vercel.json
-
-O Vercel vai fazer **redeploy automático** (demora ~2 minutos).
-
-Acompanhe no painel do Vercel em **"Deployments"**.
-
-Quando ficar **"Ready"** novamente, testa o link:
-```
-cookie-calculator.vercel.app
